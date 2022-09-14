@@ -66,3 +66,31 @@ li a:hover:not(.contact){
     font-size: xx-large;
     padding: 50px;
 }
+section{
+    height: 500px;
+    width: 38vw;
+    margin: 1vw;
+    margin-top: 0;
+    background-color: white;
+    float: left;
+}
+article{
+    height: 500px;
+    width: 38vw;
+    margin: 1vw;
+    margin-top: 0;
+    background-color: white;
+    float: left;
+}
+aside{
+    height: 1010px;
+    width: 55vw;
+    margin-right: 1vw;
+    margin-bottom: 1vw;
+    float: right;
+    background-color: white;
+}
+.footer{
+    text-align: center;
+    clear: both
+}
